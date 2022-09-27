@@ -1,6 +1,9 @@
 # Projeto de extensão - IOT
 Projeto realizado para o curso de extensão do Centro Universitário Una Aimorés.
 Desenvolvido por Vitor Teixeira Santos.
+
+Ao varia os valores de temperatura, os leds ascendem e apagam. Ao chegar no valor superior a 95 o buzzer é acionado.
+
 # Acesso ao projeto no Thinkercad
 [Link para acesso ao thinkercad](https://www.tinkercad.com/things/7b0IOUAHgz4-sensor-de-temperatura-acionamento-de-leds)
 # Montagem do projeto
