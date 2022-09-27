@@ -19,5 +19,7 @@ Itens utilizados
 
 # Código
 Disponibilizei no repositório o código .ino e C++
+
 [Linguagem utilizada: C++](https://github.com/vitorteixa/Extensao_IOT/commit/67de575876ea769a8d0f61c0a8ed4d79e38b6bad)
+
 [.ino](https://github.com/vitorteixa/Extensao_IOT/blob/master/sensor_de_temperatura__acionamento_de_leds1.ino)
