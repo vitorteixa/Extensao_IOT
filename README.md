@@ -1,28 +1,20 @@
-## IOT NA PRÁTICA - CURSO DE EXTENSÃO - PROJETO FINAL
+# Projeto de extensão - IOT
+Projeto realizado para o curso de extensão do Centro Universitário Una Aimorés.
+Desenvolvido por Vitor Teixeira Santos.
+# Acesso ao projeto no Thinkercad
+[Link para acesso ao thinkercad](https://www.tinkercad.com/things/7b0IOUAHgz4-sensor-de-temperatura-acionamento-de-leds)
+# Montagem do projeto
+Itens utilizados
+ - Arduino
+ - Fios
+ - Leds
+ - Resistores 
+ - Buzzer
+ - Sensor de temperatura TMP36  
+ 
+ ![montagem do circuito](https://github.com/vitorteixa/Extensao_IOT/blob/master/Sensor%20de%20Temperatura_Representa%C3%A7%C3%A3o_LED.png)
 
-
-> Abrir essa página em [https://vitorteixa.github.io/extensao_iot/](https://vitorteixa.github.io/extensao_iot/)
-
-## Usar como extensão
-https://www.tinkercad.com/things/7b0IOUAHgz4-sensor-de-temperatura-acionamento-de-leds
-
-Este repositório foi  criado exclusivamente para o projeto de extensão.
-
-## Acesso ao projeto
-![Acesso ao projeto](https://www.tinkercad.com/things/7b0IOUAHgz4-sensor-de-temperatura-acionamento-de-leds)
-
-
-
-
-## Pré-visualização da montagem
-
-Essa imagem mostra a montagem do projeto dentro do thinkercad.
-
-Esta imagem pode demorar alguns minutos para atualizar.
-
-![Uma visão renderizada da montagem](https://github.com/vitorteixa/Extensao_IOT/blob/master/Sensor%20de%20Temperatura_Representa%C3%A7%C3%A3o_LED.png)
-
-#### Metadados (usados para pesquisa, renderização)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+# Código
+Disponibilizei no repositório o código .ino e C++
+[Linguagem utilizada: C++](https://github.com/vitorteixa/Extensao_IOT/commit/67de575876ea769a8d0f61c0a8ed4d79e38b6bad)
+[.ino](https://github.com/vitorteixa/Extensao_IOT/blob/master/sensor_de_temperatura__acionamento_de_leds1.ino)
